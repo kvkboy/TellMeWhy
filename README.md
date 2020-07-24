@@ -13,3 +13,6 @@ why系列综合来看有两大类，**why存在**，**why设计**
 有的"为什么"很浅，有的"为什么"很深，我只想让每一个看的到至少能明白**为什么**
 
 
+## 目录
+
+  * [为什么存在Unicode](https://github.com/kvkboy/TellMeWhy/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AD%98%E5%9C%A8Unicode.md) 
